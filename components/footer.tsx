@@ -27,7 +27,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg"></span>
               </div>
-              <h3 className="font-bold text-lg text-foreground">Dapur Umi Kyana</h3>
+              <h3 className="font-bold text-lg text-foreground">Dapur Ummi Kyana</h3>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Kami menyediakan katering berkualitas dengan menu mingguan yang variatif. Setiap hidangan disiapkan dengan
@@ -83,7 +83,7 @@ export default function Footer() {
 
                {/* Bottom */}
         <div className="border-t border-border pt-8 text-center">
-          <p className="text-sm text-muted-foreground">© 2025 Dapur Umi Kyana. Dibuat dengan ❤️ untuk Anda.</p>
+          <p className="text-sm text-muted-foreground">© 2025 Dapur Ummi Kyana. Dibuat dengan ❤️ untuk Anda.</p>
         </div>
       </div>
     </footer>

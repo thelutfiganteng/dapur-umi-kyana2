@@ -158,7 +158,7 @@ export default function AllMenu({ onAddToCart }: AllMenuProps) {
           Seluruh Menu Kami
         </h2>
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-          Jelajahi semua pilihan hidangan spesial dari Dapur Umi Kyana. Setiap menu dibuat dengan cinta dan bahan-bahan
+          Jelajahi semua pilihan hidangan spesial dari Dapur Ummi Kyana. Setiap menu dibuat dengan cinta dan bahan-bahan
           pilihan terbaik.
         </p>
       </div>

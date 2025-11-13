@@ -32,13 +32,13 @@ export default function AboutSection() {
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
               Tentang{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-                Dapur Umi Kyana
+                Dapur Ummi Kyana
               </span>
             </h2>
 
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Dapur Umi Kyana adalah layanan katering terpercaya yang telah melayani berbagai acara spesial selama
+                Dapur Ummi Kyana adalah layanan katering terpercaya yang telah melayani berbagai acara spesial selama
                 lebih dari 10 tahun. Kami berkomitmen untuk memberikan kualitas terbaik dengan cita rasa autentik yang
                 tak terlupakan.
               </p>

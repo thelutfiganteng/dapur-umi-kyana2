@@ -18,7 +18,7 @@ export default function CartSidebar({ cart, onUpdateQuantity, onRemoveItem, onCl
   const handleWhatsAppOrder = () => {
     if (cart.items.length === 0) return
 
-    let message = `*Pesanan dari Dapur Umi Kyana* 🍗\n\n`
+    let message = `*Pesanan dari Dapur Ummi Kyana* 🍗\n\n`
     message += `━━━━━━━━━━━━━━━━━━━━━━━\n`
     message += `*Daftar Pesanan*\n`
     message += `━━━━━━━━━━━━━━━━━━━━━━━\n\n`
